@@ -2,6 +2,8 @@ public class Main {
 
     public static void main(String[] args)
     {
-        System.out.println("yes");
+//        GroupAnagrams49 g = new GroupAnagrams49();
+
+        ValidAnagram242 v = new ValidAnagram242();
     }
 }
