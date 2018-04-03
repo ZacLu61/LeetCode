@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class ValidAnagram242
 {
-    ValidAnagram242()
+    public ValidAnagram242()
     {
         String s = "anagram", t = "nagaram";
 
