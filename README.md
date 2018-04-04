@@ -7,3 +7,7 @@
 ### [2018/4/3](https://github.com/tclu82/LeetCode/tree/master/Apr3)
 * [54. Spiral Matrix](https://github.com/tclu82/LeetCode/blob/master/Apr3/SpiralMatrix54.java)
 * [59. Spiral MatrixII](https://github.com/tclu82/LeetCode/blob/master/Apr3/SpiralMatrixII59.java)
+
+### [2018/4/4](https://github.com/tclu82/LeetCode/tree/master/Apr4)
+* [61. Rotate List](https://github.com/tclu82/LeetCode/blob/master/Apr4/RotateList61.java)
+* [189. Rotate Array](https://github.com/tclu82/LeetCode/blob/master/Apr4/RotateArray189.java)
