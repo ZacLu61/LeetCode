@@ -11,3 +11,7 @@
 ### [2018/4/4](https://github.com/tclu82/LeetCode/tree/master/Apr4)
 * [61. Rotate List](https://github.com/tclu82/LeetCode/blob/master/Apr4/RotateList61.java)
 * [189. Rotate Array](https://github.com/tclu82/LeetCode/blob/master/Apr4/RotateArray189.java)
+
+### [2018/4/5](https://github.com/tclu82/LeetCode/tree/master/Apr5)
+* [50. Pow](https://github.com/tclu82/LeetCode/blob/master/Apr5/Pow50.java)
+* [69. Sqrt](https://github.com/tclu82/LeetCode/blob/master/Apr5/Sqrt69.java)
