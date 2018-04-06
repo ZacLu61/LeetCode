@@ -2,6 +2,8 @@ import Apr2.*;
 import Apr3.*;
 import Apr4.RotateArray189;
 import Apr4.RotateList61;
+import Apr5.Pow50;
+import Apr5.Sqrt69;
 
 public class Main {
 
@@ -17,9 +19,11 @@ public class Main {
 
 //        RotateArray189 r = new RotateArray189();
 
-        RotateList61 r = new RotateList61();
+//        RotateList61 r = new RotateList61();
 
+//        Sqrt69 s = new Sqrt69();
 
+        Pow50 p = new Pow50();
 
 
 
