@@ -15,3 +15,5 @@
 ### [2018/4/5](https://github.com/tclu82/LeetCode/tree/master/Apr5)
 * [50. Pow](https://github.com/tclu82/LeetCode/blob/master/Apr5/Pow50.java)
 * [69. Sqrt](https://github.com/tclu82/LeetCode/blob/master/Apr5/Sqrt69.java)
+
+### [2018/4/6]
