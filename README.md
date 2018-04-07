@@ -16,4 +16,6 @@
 * [50. Pow](https://github.com/tclu82/LeetCode/blob/master/Apr5/Pow50.java)
 * [69. Sqrt](https://github.com/tclu82/LeetCode/blob/master/Apr5/Sqrt69.java)
 
-### [2018/4/6]
+### [2018/4/6](https://github.com/tclu82/LeetCode/tree/master/Apr6)
+* [73. Set Matrix Zeroes](https://github.com/tclu82/LeetCode/blob/master/Apr6/SetMatrixZeroes73.java)
+* [289. Game of Life](https://github.com/tclu82/LeetCode/blob/master/Apr6/GameofLife289.java)
