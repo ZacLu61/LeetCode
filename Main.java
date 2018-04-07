@@ -4,6 +4,8 @@ import Apr4.RotateArray189;
 import Apr4.RotateList61;
 import Apr5.Pow50;
 import Apr5.Sqrt69;
+import Apr6.GameofLife289;
+import Apr6.SetMatrixZeroes73;
 
 public class Main {
 
@@ -23,9 +25,11 @@ public class Main {
 
 //        Sqrt69 s = new Sqrt69();
 
-        Pow50 p = new Pow50();
+//        Pow50 p = new Pow50();
 
+//        SetMatrixZeroes73 s = new SetMatrixZeroes73();
 
+        GameofLife289 g = new GameofLife289();
 
     }
 }
