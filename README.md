@@ -19,3 +19,8 @@
 ### [2018/4/6](https://github.com/tclu82/LeetCode/tree/master/Apr6)
 * [73. Set Matrix Zeroes](https://github.com/tclu82/LeetCode/blob/master/Apr6/SetMatrixZeroes73.java)
 * [289. Game of Life](https://github.com/tclu82/LeetCode/blob/master/Apr6/GameofLife289.java)
+
+### [2018/4/8](https://github.com/tclu82/LeetCode/tree/master/Apr8)
+* [79. Word Search](https://github.com/tclu82/LeetCode/blob/master/Apr8/WordSearch79.java)
+* [212. WordSearchII](https://github.com/tclu82/LeetCode/blob/master/Apr8/WordSearchII212.java)
+* [80. Remove uplicates from Sorted Array II](https://github.com/tclu82/LeetCode/blob/master/Apr8/RemoveDuplicatesfromSortedArrayII80.java)
