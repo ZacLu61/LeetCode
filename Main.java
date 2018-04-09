@@ -6,30 +6,18 @@ import Apr5.Pow50;
 import Apr5.Sqrt69;
 import Apr6.GameofLife289;
 import Apr6.SetMatrixZeroes73;
+import Apr8.RemoveDuplicatesfromSortedArrayII80;
+import Apr8.WordSearch79;
+import Apr8.WordSearchII212;
 
 public class Main {
 
     public static void main(String[] args)
     {
-//        GroupAnagrams49 groupAnagrams49 = new GroupAnagrams49();
+//        WordSearch79 w = new WordSearch79();
 
-//        ValidAnagram242 validAnagram242 = new ValidAnagram242();
+//        WordSearchII212 w = new WordSearchII212();
 
-//        SpiralMatrix54 spiralMatrix54 = new SpiralMatrix54();
-
-//        SpiralMatrixII59 spiralMatrixII59 = new SpiralMatrixII59();
-
-//        RotateArray189 r = new RotateArray189();
-
-//        RotateList61 r = new RotateList61();
-
-//        Sqrt69 s = new Sqrt69();
-
-//        Pow50 p = new Pow50();
-
-//        SetMatrixZeroes73 s = new SetMatrixZeroes73();
-
-        GameofLife289 g = new GameofLife289();
-
+        RemoveDuplicatesfromSortedArrayII80 r = new RemoveDuplicatesfromSortedArrayII80();
     }
 }
