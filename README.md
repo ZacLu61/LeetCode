@@ -24,3 +24,8 @@
 * [79. Word Search](https://github.com/tclu82/LeetCode/blob/master/Apr8/WordSearch79.java)
 * [212. WordSearchII](https://github.com/tclu82/LeetCode/blob/master/Apr8/WordSearchII212.java)
 * [80. Remove uplicates from Sorted Array II](https://github.com/tclu82/LeetCode/blob/master/Apr8/RemoveDuplicatesfromSortedArrayII80.java)
+
+### [2018/4/9](https://github.com/tclu82/LeetCode/tree/master/Apr9)
+* [84. Largest Rectangle in Histogram](https://github.com/tclu82/LeetCode/blob/master/Apr9/LargestRectangleHistogram84.java)
+* [86. Partition List](https://github.com/tclu82/LeetCode/blob/master/Apr9/PartitionList86.java)
+* [221. Maximal Square](https://github.com/tclu82/LeetCode/blob/master/Apr9/MaximalSquare221.java)
