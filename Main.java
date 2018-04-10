@@ -1,14 +1,5 @@
-import Apr2.*;
-import Apr3.*;
-import Apr4.RotateArray189;
-import Apr4.RotateList61;
-import Apr5.Pow50;
-import Apr5.Sqrt69;
-import Apr6.GameofLife289;
-import Apr6.SetMatrixZeroes73;
-import Apr8.RemoveDuplicatesfromSortedArrayII80;
-import Apr8.WordSearch79;
-import Apr8.WordSearchII212;
+import Apr9.MaximalSquare221;
+import Apr9.PartitionList86;
 
 public class Main {
 
@@ -18,6 +9,14 @@ public class Main {
 
 //        WordSearchII212 w = new WordSearchII212();
 
-        RemoveDuplicatesfromSortedArrayII80 r = new RemoveDuplicatesfromSortedArrayII80();
+//        RemoveDuplicatesfromSortedArrayII80 r = new RemoveDuplicatesfromSortedArrayII80();
+
+//        LargestRectangleHistogram84 l = new LargestRectangleHistogram84();
+
+//        MaximalSquare221 m = new MaximalSquare221();
+
+        PartitionList86 p = new PartitionList86();
+
+
     }
 }
