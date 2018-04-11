@@ -47,8 +47,8 @@ public class PalindromePartitioning131
             if (palindromeFromTo[index][i])
             {
                 list.add(s.substring(index, i + 1));
-
-                helper(s, index + 1, palindromeFromTo, list, result);
+                // Next iteration from i + 1
+                helper(s, i + 1, palindromeFromTo, list, result);
 
                 list.remove(list.size() -1);
             }
