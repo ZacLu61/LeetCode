@@ -31,3 +31,11 @@
 * [221. Maximal Square](https://github.com/tclu82/LeetCode/blob/master/Apr9/MaximalSquare221.java)
 
 ### [2018/4/10](https://github.com/tclu82/LeetCode/tree/master/Apr10)
+* [39. Combination Sum](https://github.com/tclu82/LeetCode/blob/master/Apr10/CombinationSum39.java)
+* [40. Combination Sum II](https://github.com/tclu82/LeetCode/blob/master/Apr10/CombinationSumII40.java)
+* [46. Permutations](https://github.com/tclu82/LeetCode/blob/master/Apr10/Permutations46.java)
+* [47. Permutations II](https://github.com/tclu82/LeetCode/blob/master/Apr10/PermutationsII47.java)
+* [78. Subsets](https://github.com/tclu82/LeetCode/blob/master/Apr10/Subsets78.java)
+* [90. Subsets II](https://github.com/tclu82/LeetCode/blob/master/Apr10/SubsetsII90.java)
+* [131. Palindrome Partitioning](https://github.com/tclu82/LeetCode/blob/master/Apr10/PalindromePartitioning131.java)
+* [89. GrayCode](https://github.com/tclu82/LeetCode/blob/master/Apr10/GrayCode89.java)
