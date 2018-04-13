@@ -46,7 +46,7 @@
 * [416. Partition Equal Subset Sum](https://github.com/tclu82/LeetCode/blob/master/Apr11/PartitionEqualSubsetSum416.java)
 
 ### [2018/4/12](https://github.com/tclu82/LeetCode/tree/master/Apr12)
-* [94. Binary Tree Inorder Traversal]()
-* [98. Validate Binary Search Tree]()
-* [144. Binary Tree Preorder Traversal]()
-* [145. Binary Tree Postorder Traversal]()
+* [94. Binary Tree Inorder Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr12/BinaryTreeInorderTraversal94.java)
+* [98. Validate Binary Search Tree](https://github.com/tclu82/LeetCode/blob/master/Apr12/ValidateBinarySearchTree98.java)
+* [144. Binary Tree Preorder Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr12/BinaryTreePreorderTraversal144.java)
+* [145. Binary Tree Postorder Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr12/BinaryTreePostorderTraversal145.java)
