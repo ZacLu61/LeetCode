@@ -50,3 +50,7 @@
 * [98. Validate Binary Search Tree](https://github.com/tclu82/LeetCode/blob/master/Apr12/ValidateBinarySearchTree98.java)
 * [144. Binary Tree Preorder Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr12/BinaryTreePreorderTraversal144.java)
 * [145. Binary Tree Postorder Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr12/BinaryTreePostorderTraversal145.java)
+
+### [2018/4/13](https://github.com/tclu82/LeetCode/tree/master/Apr13)
+* [99. Recover Binary Search Tree](https://github.com/tclu82/LeetCode/blob/master/Apr13/RecoverBinarySearchTree99.java)
+* [100. Same Tree](https://github.com/tclu82/LeetCode/blob/master/Apr13/SameTree100.java)
