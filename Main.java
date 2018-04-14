@@ -11,15 +11,7 @@ public class Main {
 
     public static void main(String[] args)
     {
-//        PartitionEqualSubsetSum416 p = new PartitionEqualSubsetSum416();
 
-//        DecodeWays91 d = new DecodeWays91();
-
-//        ReverseLinkedListII92 r = new ReverseLinkedListII92();
-
-//        BinaryTreeInorderTraversal94 b = new BinaryTreeInorderTraversal94();
-
-//        ValidateBinarySearchTree98 v = new ValidateBinarySearchTree98();
 
 
 
