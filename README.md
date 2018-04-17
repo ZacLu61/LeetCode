@@ -58,3 +58,10 @@
 ### [2018/4/15](https://github.com/tclu82/LeetCode/tree/master/Apr15)
 * [101. Symmetric Tree](https://github.com/tclu82/LeetCode/blob/master/Apr15/SymmetricTree101.java)
 * [102. Binary Tree Level Order Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr15/BinaryTreeLevelOrderTraversal102.java)
+
+### [2018/4/16](https://github.com/tclu82/LeetCode/tree/master/Apr16)
+* [103. Binary Tree Zigzag Level Order Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr16/BinaryTreeZigzagLevelOrderTraversal103.java)
+* [107. Binary Tree Level Order Traversal II](https://github.com/tclu82/LeetCode/blob/master/Apr16/BinaryTreeLevelOrderTraversalII107.java)
+* [111. Minimum Depth of Binary Tree](https://github.com/tclu82/LeetCode/blob/master/Apr16/MinimumDepthofBinaryTree111.java)
+* [314. Binary Tree Vertical Order Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr16/BinaryTreeVerticalOrderTraversal314.java)
+* [637. Average of Levels in Binary Tree](https://github.com/tclu82/LeetCode/blob/master/Apr16/AverageofLevelsinBinaryTree637.java)
