@@ -65,3 +65,9 @@
 * [111. Minimum Depth of Binary Tree](https://github.com/tclu82/LeetCode/blob/master/Apr16/MinimumDepthofBinaryTree111.java)
 * [314. Binary Tree Vertical Order Traversal](https://github.com/tclu82/LeetCode/blob/master/Apr16/BinaryTreeVerticalOrderTraversal314.java)
 * [637. Average of Levels in Binary Tree](https://github.com/tclu82/LeetCode/blob/master/Apr16/AverageofLevelsinBinaryTree637.java)
+
+### [2018/4/17](https://github.com/tclu82/LeetCode/tree/master/Apr17)
+* [106. Construct Binary Tree from Inorder and Postorder Traversal]https://github.com/tclu82/LeetCode/blob/master/Apr17/ConstructBinaryTreefromInorderandPostorderTraversal106.java)
+* [108. Convert Sorted Array to Binary Search Tree](https://github.com/tclu82/LeetCode/blob/master/Apr17/ConvertSortedArraytoBinarySearchTree108.java)
+* [109. Convert Sorted List to Binary Search Tree](https://github.com/tclu82/LeetCode/blob/master/Apr17/ConvertSortedListtoBinarySearchTree109.java)
+* [110. Balanced Binary Tree](https://github.com/tclu82/LeetCode/blob/master/Apr17/BalancedBinaryTree110.java)
