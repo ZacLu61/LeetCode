@@ -1,6 +1,7 @@
 import Apr23.BestTimetoBuyandSellStockIV188;
 import Apr23.BestTimetoBuyandSellStockwithCooldown309;
 import Apr23.BestTimetoBuyandSellStockwithTransactionFee714;
+import Apr23.BinaryTreeMaximumPathSum124;
 
 public class Main {
 
@@ -10,7 +11,9 @@ public class Main {
 
 //        BestTimetoBuyandSellStockIV188 b = new BestTimetoBuyandSellStockIV188();
 
-        BestTimetoBuyandSellStockwithTransactionFee714 b = new BestTimetoBuyandSellStockwithTransactionFee714();
+//        BestTimetoBuyandSellStockwithTransactionFee714 b = new BestTimetoBuyandSellStockwithTransactionFee714();
+
+        BinaryTreeMaximumPathSum124 b = new BinaryTreeMaximumPathSum124();
 
     }
 }
