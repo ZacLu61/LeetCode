@@ -1,10 +1,10 @@
-import Apr24.ValidPalindrome125;
+import Apr25.PalindromePartitioning131;
 
 public class Main {
 
     public static void main(String[] args)
     {
-        ValidPalindrome125 v = new ValidPalindrome125();
+        PalindromePartitioning131 p = new PalindromePartitioning131();
 
 
 
