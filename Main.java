@@ -1,11 +1,10 @@
-import Apr25.PalindromePartitioning131;
+import Apr26.FindtheDuplicateNumber287;
 
 public class Main {
 
     public static void main(String[] args)
     {
-        PalindromePartitioning131 p = new PalindromePartitioning131();
-
+        FindtheDuplicateNumber287 f = new FindtheDuplicateNumber287();
 
 
     }
