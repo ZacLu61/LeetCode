@@ -85,3 +85,12 @@
 * [309. Best Time to Buy and Sell Stock with Cooldown](https://github.com/tclu82/LeetCode/blob/master/Apr23/BestTimetoBuyandSellStockwithCooldown309.java)
 * [687. Longest Univalue Path](https://github.com/tclu82/LeetCode/blob/master/Apr23/LongestUnivaluePath687.java)
 * [714. Best Time to Buy and Sell Stock with Transaction Fee](https://github.com/tclu82/LeetCode/blob/master/Apr23/BestTimetoBuyandSellStockwithTransactionFee714.java)
+
+### [2018/4/24](https://github.com/tclu82/LeetCode/tree/master/Apr24)
+* [125. Valid Palindrome ](https://github.com/tclu82/LeetCode/blob/master/Apr24/ValidPalindrome125.java)
+
+### [2018/4/25](https://github.com/tclu82/LeetCode/tree/master/Apr25)
+* [131. Palindrome Partitioning](https://github.com/tclu82/LeetCode/blob/master/Apr25/PalindromePartitioning131.java)
+
+### [2018/4/26](https://github.com/tclu82/LeetCode/tree/master/Apr26)
+* [287. Find the Duplicate Number](https://github.com/tclu82/LeetCode/blob/master/Apr26/FindtheDuplicateNumber287.java)
