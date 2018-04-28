@@ -1,13 +1,12 @@
-import Apr26.FindtheDifference398;
-import Apr26.FindtheDuplicateNumber287;
+import Apr27.VeriPreorderSequenceinBinarySearchTree255;
 
 public class Main {
 
     public static void main(String[] args)
     {
-//        FindtheDuplicateNumber287 f = new FindtheDuplicateNumber287();
+        VeriPreorderSequenceinBinarySearchTree255 v = new VeriPreorderSequenceinBinarySearchTree255();
 
-        FindtheDifference398 f = new FindtheDifference398();
+
 
     }
 }
