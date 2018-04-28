@@ -95,3 +95,7 @@
 ### [2018/4/26](https://github.com/tclu82/LeetCode/tree/master/Apr26)
 * [287. Find the Duplicate Number](https://github.com/tclu82/LeetCode/blob/master/Apr26/FindtheDuplicateNumber287.java)
 * [398. Find the Difference](https://github.com/tclu82/LeetCode/blob/master/Apr26/FindtheDifference398.java)
+
+### [2018/4/27](https://github.com/tclu82/LeetCode/tree/master/Apr27)
+* [255. Verify Preorder Sequence in Binary Search Tree]()
+* [146. LRU Cache]()
