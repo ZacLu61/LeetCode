@@ -97,5 +97,5 @@
 * [398. Find the Difference](https://github.com/tclu82/LeetCode/blob/master/Apr26/FindtheDifference398.java)
 
 ### [2018/4/27](https://github.com/tclu82/LeetCode/tree/master/Apr27)
-* [255. Verify Preorder Sequence in Binary Search Tree]()
-* [146. LRU Cache]()
+* [255. Verify Preorder Sequence in Binary Search Tree](https://github.com/tclu82/LeetCode/blob/master/Apr27/VeriPreorderSequenceinBinarySearchTree255.java)
+* [146. LRU Cache](https://github.com/tclu82/LeetCode/blob/master/Apr27/LRUCache146.java)
