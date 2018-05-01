@@ -101,5 +101,5 @@
 * [146. LRU Cache](https://github.com/tclu82/LeetCode/blob/master/Apr27/LRUCache146.java)
 
 ### [2018/5/1](https://github.com/tclu82/LeetCode/tree/master/May1)
-* [147. Insertion Sort List]()
-* [148. Sort List]()
+* [147. Insertion Sort List](https://github.com/tclu82/LeetCode/blob/master/May1/InsertionSortList147.java)
+* [148. Sort List](https://github.com/tclu82/LeetCode/blob/master/May1/SortList148.java)
