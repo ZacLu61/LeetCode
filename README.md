@@ -103,3 +103,7 @@
 ### [2018/5/1](https://github.com/tclu82/LeetCode/tree/master/May1)
 * [147. Insertion Sort List](https://github.com/tclu82/LeetCode/blob/master/May1/InsertionSortList147.java)
 * [148. Sort List](https://github.com/tclu82/LeetCode/blob/master/May1/SortList148.java)
+
+### [2018/5/4](https://github.com/tclu82/LeetCode/tree/master/May4)
+*[151. Reverse Words in a String] ()
+*[186. Reverse Words in a String II] ()
