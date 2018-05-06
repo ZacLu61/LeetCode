@@ -109,5 +109,5 @@
 * [186. Reverse Words in a String II](https://github.com/tclu82/LeetCode/blob/master/May4/ReverseWordsinaStringII186.java)
 
 ### [2018/5/5](https://github.com/tclu82/LeetCode/tree/master/May5)
-* [152. Maximum Product Subarray]()
-* [198. House Robber]()
+* [152. Maximum Product Subarray](https://github.com/tclu82/LeetCode/blob/master/May5/MaximumProductSubarray152.java)
+* [198. House Robber](https://github.com/tclu82/LeetCode/blob/master/May5/HouseRobber198.java)
