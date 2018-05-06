@@ -105,5 +105,5 @@
 * [148. Sort List](https://github.com/tclu82/LeetCode/blob/master/May1/SortList148.java)
 
 ### [2018/5/4](https://github.com/tclu82/LeetCode/tree/master/May4)
-*[151. Reverse Words in a String] ()
-*[186. Reverse Words in a String II] ()
+*[151. Reverse Words in a String] (https://github.com/tclu82/LeetCode/blob/master/May4/ReverseWordsinaString151.java)
+*[186. Reverse Words in a String II] (https://github.com/tclu82/LeetCode/blob/master/May4/ReverseWordsinaStringII186.java)
