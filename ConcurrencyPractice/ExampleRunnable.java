@@ -2,7 +2,7 @@ package ConcurrencyPractice;
 
 import java.lang.Thread;
 
-public class ExampleThread extends Thread {
+public class ExampleRunnable implements Runnable {
     @Override
     public void run() {
         try {
@@ -10,6 +10,6 @@ public class ExampleThread extends Thread {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        System.out.println("Thread name:" + Thread.currentThread().getName());
+        System.out.println("ExampleRunnable name:" + Thread.currentThread().getName());
     }
 }
